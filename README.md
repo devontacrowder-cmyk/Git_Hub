@@ -22,4 +22,4 @@
   
   ## Vocab:
   -  `commit` - to save a version, you can commit locally, oush commit to git hub
-  `push` - to push commits to online repository.
+  - `push` - to push commits to online repository.
